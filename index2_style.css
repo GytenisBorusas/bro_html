@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+.odd {
+    background-color: white;
+}
+
+.even {
+    background-color: brown;
+}
+
+h1 {
+    color: white;
+}
+
+#p1 {
+    color: red;
+}
+#p2 {
+    color: orange;
+}
+
+#p3 {
+    color: blue;
+}
+#p4 {
+    color: yellow;
+}
+
